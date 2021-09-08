@@ -50,14 +50,14 @@ faculty_dir.forEach(function(faculty, index) {
       if (profile['homepage'] != 'n/a') {
         if (profile['homepage'] == 'public_html') {
           homepage = document.createElement('img');
-          homepage.src = '../img/homepage.png';
+          homepage.src = '/web/img/homepage.png';
           link = document.createElement('a');
 	  link.href = 'users/' + faculty + '/index.html';
           link.style.paddingLeft = "5px";
           link.appendChild(homepage);
         } else {
           homepage = document.createElement('img');
-          homepage.src = '../img/homepage.png';
+          homepage.src = '/web/img/homepage.png';
           link = document.createElement('a');
           link.href = profile['homepage'];
           link.style.paddingLeft = "5px";
@@ -133,14 +133,14 @@ graduate_dir.forEach(function(graduate, index) {
 		if (profile['homepage'] != 'n/a') {
 			if (profile['homepage'] == 'public_html') {
 				homepage = document.createElement('img');
-				homepage.src = '../img/homepage.png';
+				homepage.src = '/web/img/homepage.png';
 				link = document.createElement('a');
 				link.href = 'users/' + graduate + '/index.html';
 				link.style.paddingLeft = "5px";
 				link.appendChild(homepage);
 			} else {
 				homepage = document.createElement('img');
-				homepage.src = '../img/homepage.png';
+				homepage.src = '/web/img/homepage.png';
 				link = document.createElement('a');
 				link.href = profile['homepage'];
 				link.style.paddingLeft = "5px";
@@ -215,7 +215,7 @@ undergraduate_dir.forEach(function(undergraduate, index) {
 		nameis.innerHTML = profile['name'];
 		if (profile['homepage'] == 'public_html') {
 			homepage = document.createElement('img');
-			homepage.src = '../img/homepage.png';
+			homepage.src = '/web/img/homepage.png';
 			link = document.createElement('a');
 			link.href = '~' + undergraduate;
 			link.style.paddingLeft = "5px";
