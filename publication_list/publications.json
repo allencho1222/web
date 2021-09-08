@@ -1,0 +1,332 @@
+{
+"publication_list": 
+[
+
+{
+	"title": "TCEP: Traffic Consolidation for Energy-Proportional High-Radix Networks",
+	"authors": ["Gwangsun Kim", "Hayoung Choi", "John Kim"],
+	"conference": "The 45th International Symposium on Computer Architecture (ISCA)",
+	"year": "2018",
+	"accept_rate": "16.9%",
+	"download_link":
+	{
+		"paper": "abc",
+		"slides": "ccc"
+	},
+	"is_best": "false",
+	"to_be_accepeted": "false"
+}, 
+{
+	"title": "Efficient Fork-Join on GPUs Through Warp Specialization",
+	"authors": ["A. C.Jacob", "A. E. Eichenberger", "H. Sung", "S. F. Antao", "G. Bercea", "C. Bertolli", "A. Bataev", "T. Jin", "T. Chen", "Z. Sura", "G. Rokos", "K. O'Brien"],
+	"conference": "IEEE 24th International Conference on High Perforamcne Computing (HiPC)",
+	"year": "2017",
+	"is_best": false,
+	"to_be_accepeted": false
+},
+{
+	"title": "Leveraging OpenMP 4.5 Support in CLANG for Fortran",
+	"authors": ["Hyojin Sung", "Tong Chen", "Zehra Sura", "Tarique Islam"],
+	"conference": "The 13th international workshop on OpenMP (IWOMP)",
+	"year": "2017",
+	"is_best": false,
+	"to_be_accepeted": false
+},
+{
+	"title": "Implementing implicit OpenMP data sharing on GPUs", 
+	"authors": ["Gheorghe-Teodor Bercea", "Carlo Bertolli", "Arpith C. Jacob", "Alexandre E. Eichenberger", "Alexey Bataev", "Georgios Rokos", "Hyojin Sung", "Tong Chen", "Kevin O’Brien"],
+	"conference": "The Fourth Workshop on the LLVM Compiler Infrastructure in HPC at SC'17",
+	"year": "2017",
+	"is_best": false,
+	"to_be_accepeted": false
+},
+{
+	"title": "Toward Standardized Near-Data Processing with Unrestricted Data Placement for GPUs",
+	"authors": ["Gwangsun Kim", "Niladrish Chatterjee", "Mike O’Connor", "Kevin Hsieh"],
+	"conference": "The International Conference for High Performance Computing, Networking, Storage and Analysis (SC)",
+	"year": "2017",
+	"accept_rate": "18.7%",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+}, 
+{
+	"title": "History-Based Arbitration for Fairness in Processor-Interconnect of NUMA Servers",
+	"authors": ["Wonjun Song", "Gwangsun Kim", "Hyungjoon Jung", "Jongwook Chung", "Jung Ho Ahn", "Jae W Lee", "John Kim"],
+	"conference": "The 22nd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)",
+	"year": "2017",
+	"accept_rate": "17.4%",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "Offloading Support for OpenMP in Clang and LLVM",
+	"authors": ["Samuel F. Ant˜ao", "Alexey Bataev", "Arpith C. Jacob", "Gheorghe-Teodor Bercea", "Alexandre E. Eichenberger", "Georgios Rokos", "Matt Martineau", "Tian Jin", "Guray Ozen", "Zehra Sura", "Tong Chen", "Hyojin Sung", "Carlo Bertolli", "Kevin O’Brien"],
+	"conference": "The Fourth Workshop on the LLVM Compiler Infrastructure in HPC at SC'16",
+	"year": "2016",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "Performance Analysis and Optimization of Clang’s OpenMP 4.5 GPU Support",
+	"authors": ["Matt Martineau", "Simon McIntosh-Smith", "Carlo Bertolli", "Arpith C. Jacob", "Samuel F. Ant˜ao", "Alexandre E. Eichenberger", "Gheorghe-Teodor Bercea", "Tong Chen", "Tian Jin", "Kevin O’Brien", "Georgios Rokos", "Hyojin Sung", "Zehra Sura"],
+	"conference": "The 7th International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS16) at SC'16",
+	"year": "2016",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "Automatic Copying of Pointer-based Data Structures",
+	"authors": ["Tong Chen", "Zehra Sura", "Hyojin Sung"],
+	"conference": "The 29th International Workshop on Languages and Compilers for Parallel Computing (LCPC)",
+	"year": "2016",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "Contention-based Congestion Management in Large-Scale Networks",
+	"authors": ["Gwangsun Kim", "Changhyun Kim", "Jiyun Jeong", "Mike Parker", "John Kim"],
+	"conference": "The 49th IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+	"year": "2016",
+	"accept_rate": "21.6%",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "Automatically Exploiting Implicit Pipeline Parallelism from Multiple Dependent Kernels for GPUs",
+	"authors": ["Gwangsun Kim", "Jiyun Jeong", "John Kim", "Mark Stephenson"],
+	"conference": "The 25th International Conference on Parallel Architectures and Compilation Techniques (PACT)",
+	"year": "2016",
+	"accept_rate": "26.1%",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "Accelerating Linked-list Traversal through Near-Data Processing",
+	"authors": ["Byungchul Hong", "Gwangsun Kim", "Jung Ho Ahn", "Yongkee Kwon", "Hongsik Kim", "John Kim"],
+	"conference": "The 25th International Conference on Parallel Architectures and Compilation Techniques (PACT)",
+	"year": "2016",
+	"accept_rate": "26.1%",
+	"is_best": "half",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "High-Throughput System Design with Memory Networks",
+	"authors": ["Gwangsun Kim"],
+	"conference": "Ph.D. Thesis, School of Computing, KAIST",
+	"year": "2016",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "Transparent Offloading and Mapping (TOM): Enabling Programmer-Transparent Near-Data Processing in GPU Systems",
+	"authors": ["Kevin Hsieh", "Eiman Ebrahimi", "Gwangsun Kim", "Niladrish Chatterjee", "Mike O’Connor", "Nandita Vijaykumar", "Onur Mutlu", "Stephen W. Keckler"],
+	"conference": "The 43rd International Symposium on Computer Architecture (ISCA)",
+	"year": "2016",
+	"accept_rate": "19.6%",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "iPAWS : Instruction-Issue Pattern-based Adaptive Warp Scheduling for GPGPUs",
+	"authors": ["Minseok Lee", "Gwangsun Kim", "John Kim", "Woong Seo", "Yeongon Cho", "Soojung Ryu"],
+	"conference": "The 22nd IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+	"year": "2016",
+	"accept_rate": "22.1%",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "Design and Analysis of Hybrid Flow Control for Hierarchical Ring Network-on-Chip",
+	"authors": ["Hanjoon Kim", "Gwangsun Kim", "Hwasoo Yeo", "John Kim", "Seungryoul Maeng"],
+	"conference": "IEEE Transactions on Computers, vol. 65, no. 2, pp. 480-494, 1",
+	"year": "2016",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+
+{
+	"title": "Integrating GPU Support for OpenMP Offloading Directives into Clang",
+	"authors": ["Carlo Bertolli", "Samuel Antao", "Gheorghe-Theodor Bercea", "Arpith Jacob", "Alexandre Eichenberger", "Tong Chen", "Zehra Sura", "Hyojin Sung", "Georgious Rokos", "David Appelhans", "Kevin O’Brien"],
+	"conference": "The Second Workshop on the LLVM Compiler Infrastructure in HPC at SC'15",
+	"year": "2015",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "Performance Analysis of OpenMP on a GPU Using a CORAL Proxy Application",
+	"authors": ["Gheorghe-Teodor Bercea", "Carlo Bertolli", "Samuel F. Antao", "Arpith C. Jacob", "Alexandre E. Eichenberger", "Tong Chen", "Zehra Sura", "Hyojin Sung", "Georgios Rokos", "David Appelhans", "Kevin O’Brien"],
+	"conference": "The 6th International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS15) at SC'15",
+	"year": "2015",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "Towards Performance Portable GPU Programming with RAJA",
+	"authors": ["Arpith C. Jacob", "Samuel F. Antao", "Hyojin Sung", "Alexandre Eichenberger", "Carlo Bertolli", "Gheorghe-Teodor Bercea", "Tong Chen", "Zehra Sura", "Georgios Rokos", "Kevin O’Brien"],
+	"conference": "The Workshop on Portability Among HPC Architectures for Scientific Applications at SC'15",
+	"year": "2015",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "Eliminating On-Chip TrafficWaste: Are We There Yet?",
+	"authors": ["Robert Smolinski", "Rakesh Komuravelli", "Hyojin Sung", "Sarita V. Adve"],
+	"conference": "2015 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS) (poster presentation)",
+	"year": "2015",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "Supporting Arbitrary Synchronization without Writer-Initiated Invalidations",
+	"authors": ["Hyojin Sung", "Sarita V. Adve"],
+	"conference": "20th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)",
+	"year": "2015",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "Overcoming Far-end Congestion in Large-Scale Networks",
+	"authors": ["Jongmin Won", "Gwangsun Kim", "John Kim", "Ted Jiang", "Mike Parker", "Steve Scott"],
+	"conference": "The 21st IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+	"year": "2015",
+	"accept_rate": "22.1%",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+
+{
+	"title": "DeNovoND: Efficient Hardware Support for Disciplined Non-Determinism",
+	"authors": ["Hyojin Sung", "Rakesh Komuravelli", "Sarita V. Adve"],
+	"conference": "IEEE Micro Top Picks from the Computer Architecture Conferences",
+	"year": "2014",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "Multi-GPU System Design with Memory Networks",
+	"authors": ["Gwangsun Kim", "Minseok Lee", "Jiyun Jeong", "John Kim"],
+	"conference": "The 47th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+	"year": "2014",
+	"accept_rate": "19.4%",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "Memory Network: Enabling Technology for Scalable Near-Data Computing",
+	"authors": ["Gwangsun Kim", "John Kim", "Jung Ho Ahn", "Yongkee Kwon"],
+	"conference": "The 2nd Workshop on Near-Data Processing (WoNDP) (in conjunction with MICRO-47)",
+	"year": "2014",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "Transportation-Network Inspired Network-on-Chip",
+	"authors": ["Hanjoon Kim", "Gwangsun Kim", "Hwasoo Yeo", "Seungryoul Maeng", "John Kim"],
+	"conference": "The 20th International Symposium on High Performance Computer Architecture (HPCA)",
+	"year": "2014",
+	"accept_rate": "25.6%",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "Low-overhead Network-on-Chip Support for Location-oblivious Task Placement",
+	"authors": ["Gwangsun Kim", "Michael M. Lee", "John Kim", "Jae W. Lee", "Dennis Abts", "Michael Marty"],
+	"conference": "IEEE Transactions on Computers, vol. 63, no. 6, pp. 1487-1500",
+	"year": "2014",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+
+{
+	"title": "DeNovoND: Efficient Hardware Support for Disciplined Non-Determinism",
+	"authors": ["Hyojin Sung", "Rakesh Komuravelli", "Sarita V. Adve"],
+	"conference": "18th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)",
+	"year": "2013",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "Memory-centric System Interconnect Design with Hybrid Memory Cubes",
+	"authors": ["Gwangsun Kim", "John Kim", "Jung Ho Ahn", "Jaeha Kim"],
+	"conference": "The 22nd International Conference on Parallel Architectures and Compilation Techniques (PACT)",
+	"year": "2013",
+	"accept_rate": "17.3%",
+	"is_best": "true",
+	"to_be_accepeted": "false"
+},
+
+{
+	"title": "Scalable On-chip Network in Power Constrained Manycore Processors",
+	"authors": ["Hanjoon Kim", "Gwangsun Kim", "John Kim"],
+	"conference": "The 3rd International Green Computing Conference (IGCC)",
+	"year": "2012",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+
+{
+	"title": "DeNovo: Rethinking the Memory Hierarchy for Disciplined Parallelism",
+	"authors": ["Byn Choi", "Rakesh Komuravelli", "Hyojin Sung", "Robert Smolinski", "Nima Honarmand", "Sarita V. Adve", "Vikram S. Adve", "Nicholas P. Carter", "Ching-Tsun Chou"],
+	"conference": "20th International Conference on Parallel Architectures and Compilation Techniques (PACT) (citation count: 72)",
+	"year": "2011",
+	"is_best": "true",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "FlexiBuffer: Reducing Leakage Power in On-Chip Network Routers",
+	"authors": ["Gwangsun Kim", "John Kim", "Sungjoo Yoo"],
+	"conference": "The 48th ACM/EDAC/IEEE Design Automation Conference (DAC)",
+	"year": "2011",
+	"accept_rate": "22%",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+
+{
+	"title": "Parallel SAH k-D Tree Construction",
+	"authors": ["Byn Choi", "Rakesh Komuravelli", "Victor Lu", "Hyojin Sung", "Robert L. Bocchino", "Sarita V. Adve", "John C. Hart"],
+	"conference": "High Performance Graphics (HPG) (citation count: 67)",
+	"year": "2010",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "DeNovo: Rethinking Hardware for Disciplined Parallelism",
+	"authors": ["Byn Choi", "Rakesh Komuravelli", "Hyojin Sung", "Robert Bocchino", "Sarita V. Adve", "Vikram V. Adve"],
+	"conference": "Second USENIX Workshop on Hot Topics in Parallelism (HotPar)",
+	"year": "2010",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "A Language for Deterministic-by-Default Parallel Programming",
+	"authors": ["Robert Bocchino", "Vikram Adve", "Danny Dig", "Sarita Adve", "Stephen Heumann", "Rakesh Komuravelli", "Jeffrey Overbey", "Patric Simmons", "Hyojin Sung", "Mohsen Vakillian"],
+	"conference": "15th Workshop on Compilers and Parallel Computing (CPC)",
+	"year": "2010",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+
+{
+	"title": "A Type and Effect System for Deterministic Parallel Java",
+	"authors": ["Robert Bocchino", "Vikram Adve", "Danny Dig", "Sarita Adve", "Stephen Heumann", "Rakesh Komuravelli", "Jeffrey Overbey", "Patric Simmons", "Hyojin Sung", "Mohsen Vakillian"],
+	"conference": "The International Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA)",
+	"year": "2009",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "A Portable MATLAB Front-End for Tiled Microprocessors",
+	"authors": ["Hyojin Sung"],
+	"conference": "Master Thesis, http://roger.ucsd.edu/record=b6636516˜S7",
+	"year": "2009",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+}
+
+
+
+
+]
+
+}

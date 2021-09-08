@@ -1,0 +1,83 @@
+{
+"news_list":
+[
+{
+  "year" : "2021",
+  "month" : "07",
+  "day" : "13",
+  "desc" : "Juseong Park has joined as an Integrated MS/PhD student advised by Prof. Hyojin Sung"
+},
+{
+  "year" : "2021",
+  "month" : "02",
+  "day" : "16",
+  "desc" : "Sein Park has joined as a MS student advised by Prof. Eunhyeok Park"
+},
+{
+  "year" : "2021",
+  "month" : "02",
+  "day" : "16",
+  "desc" : "Jueon Park has joined as a MS student advised by Prof. Hyojin Sung"
+},
+{
+  "year" : "2021",
+  "month" : "02",
+  "day" : "09",
+  "desc" : "HyungCheol Geum has joined as a MS student advised by Prof. Eunhyeok Park"
+},
+{
+  "year" : "2021",
+  "month" : "02",
+  "day" : "01",
+  "desc" : "Hyungkyu Ham has joined as an Integrated MS/PhD student advised by Prof. Gwangsun Kim"
+},
+{
+  "year" : "2021",
+  "month" : "02",
+  "day" : "01",
+  "desc" : "Jeongmin Hong has joined as an Integrated MS/PhD student advised by Prof. Gwangsun Kim"
+},
+{
+	"year" : "2020",
+	"month" : "10",
+	"day" : "01",
+	"desc" : "Eunhyeok Park, an assistant professor, has joined to our group"
+},
+{
+	"year" : "2020",
+	"month" : "09",
+	"day" : "01",
+	"desc" : "Hyunuk Cho has joined as an Integrated MS/PhD student advised by Prof. Gwangsun Kim"
+},
+{
+	"year" : "2020",
+	"month" : "09",
+	"day" : "01",
+	"desc" : "Yongwon Shin has joined as an Integrated MS/PhD student advised by Prof. Hyojin Sung"
+},
+{
+	"year" : "2020",
+	"month" : "02",
+	"day" : "01",
+	"desc" : "Jaehun Ryu has joined as a MS student advised by Prof. Hyojin Sung"
+},
+{
+	"year" : "2020",
+	"month" : "01",
+	"day" : "01",
+	"desc" : "Junho Lee has joined as an Integrated MS/PhD student advised by Prof. Gwangsun Kim"
+},
+{
+	"year" : "2020",
+	"month" : "01",
+	"day" : "01",
+	"desc" : "Yeongsang Jang has joined as an Integrated MS/PhD student advised by Prof. Gwangsun Kim"
+},
+{
+	"year" : "2020",
+	"month" : "01",
+	"day" : "01",
+	"desc" : "Sungjun Cho has joined as a PhD student advised by Prof. Gwangsun Kim"
+}
+]
+}
