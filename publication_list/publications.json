@@ -1,7 +1,70 @@
 {
 "publication_list": 
 [
-
+{
+	"title": "MEANTIME: Mixture of Attention Mechanisms with Multi-temporal Embeddings for Sequential Recommendation",
+	"authors": ["Sung Min Cho", "Eunhyeok Park", "Sungjoo Yoo"],
+	"conference": "Fourteenth ACM Conference on Recommender Systems",
+	"year": "2020",
+	"is_best": false,
+	"to_be_accepeted": false
+},
+{
+	"title": "Profit: A novel training method for sub-4-bit mobilenet models",
+	"authors": ["Eunhyeok Park", "Sungjoo Yoo"],
+	"conference": "European Conference on Computer Vision (ECCV)",
+	"year": "2020",
+	"is_best": false,
+	"to_be_accepeted": false
+},
+{
+	"title": "McDRAM v2: In-Dynamic Random Access Memory Systolic Array Accelerator to Address the Large Model Problem in Deep Neural Networks on the Edge",
+	"authors": ["Seunghwan Cho", "Haerang Choi", "Eunhyeok Park", "Hyunsung Shin", "Sungjoo Yoo"],
+	"conference": "IEEE Access",
+	"year": "2020",
+	"is_best": false,
+	"to_be_accepeted": false
+},
+{
+	"title": "Tag2pix: Line art colorization using text tag with secat and changing loss",
+	"authors": ["Hyunsu Kim", "Ho Young Jhoo", "Eunhyeok Park", "Sungjoo Yoo"],
+	"conference": "International Conference on Computer Vision (ICCV)",
+	"year": "2019",
+	"is_best": false,
+	"to_be_accepeted": false
+},
+{
+	"title": "Low-overhead, one-cycle timing-error detection and correction technique for flip-flop based pipelines",
+	"authors": ["Jongeun Koo", "Eunhyeok Park", "Dongyoung Kim", "Junki Park", "Sungju Ryu", "Sungjoo Yoo", "Jae-Joon Kim"],
+	"conference": "IEICE Electronics Express",
+	"year": "2019",
+	"is_best": false,
+	"to_be_accepeted": false
+},	
+{
+	"title": "McDRAM: Low latency and energy-efficient matrix computations in DRAM",
+	"authors": ["Hyunsung Shin", "Dongyoung Kim", "Eunhyeok Park", "Sungho Park", "Yongsik Park", "Sungjoo Yoo"],
+	"conference": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+	"year": "2018",
+	"is_best": false,
+	"to_be_accepeted": false
+},
+{
+	"title": "Energy-efficient neural network accelerator based on outlier-aware low-precision computation",
+	"authors": ["Eunhyeok Park", "Dongyoung Kim", "Sungjoo Yoo"],
+	"conference": "The 45th Annual International Symposium on Computer Architecture (ISCA)",
+	"year": "2018",
+	"is_best": false,
+	"to_be_accepeted": false
+},
+{
+	"title": "Value-aware quantization for training and inference of neural networks",
+	"authors": ["Eunhyeok Park", "Sungjoo Yoo", "Peter Vajda"],
+	"conference": "European Conference on Computer Vision (ECCV)",
+	"year": "2018",
+	"is_best": false,
+	"to_be_accepeted": false
+},
 {
 	"title": "TCEP: Traffic Consolidation for Energy-Proportional High-Radix Networks",
 	"authors": ["Gwangsun Kim", "Hayoung Choi", "John Kim"],
@@ -15,7 +78,15 @@
 	},
 	"is_best": "false",
 	"to_be_accepeted": "false"
-}, 
+},
+{
+	"title": "Weighted-entropy-based quantization for deep neural networks",
+	"authors": ["Eunhyeok Park", "Junwhan Ahn", "Sungjoo Yoo"],
+	"conference": "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+	"year": "2017",
+	"is_best": false,
+	"to_be_accepeted": false
+},
 {
 	"title": "Efficient Fork-Join on GPUs Through Warp Specialization",
 	"authors": ["A. C.Jacob", "A. E. Eichenberger", "H. Sung", "S. F. Antao", "G. Bercea", "C. Bertolli", "A. Bataev", "T. Jin", "T. Chen", "Z. Sura", "G. Rokos", "K. O'Brien"],
@@ -55,6 +126,14 @@
 	"conference": "The 22nd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)",
 	"year": "2017",
 	"accept_rate": "17.4%",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "Area-efficient one-cycle correction scheme for timing errors in flip-flop based pipelines",
+	"authors": ["Jongeun Koo", "Eunwoo Song", "Eunhyeok Park", "Dongyoung Kim", "Junki Park", "Sungju Ryu", "Sungjoo Yoo", "Jae-Joon Kim"],
+	"conference": "2016 IEEE Asian Solid-State Circuits Conference (A-SSCC)",
+	"year": "2016",
 	"is_best": "false",
 	"to_be_accepeted": "false"
 },
@@ -143,7 +222,30 @@
 	"is_best": "false",
 	"to_be_accepeted": "false"
 },
-
+{
+	"title": "Locality-aware vertex scheduling for GPU-based graph computation",
+	"authors": ["Hyunsun Park", "Junwhan Ahn", "Eunhyeok Park", "Sungjoo Yoo"],
+	"conference": "The 23rd IFIP/IEEE International Conference on Very Large Scale Integration - System on a Chip (VLSI-SoC)",
+	"year": "2015",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "Big/little deep neural network for ultra low power inference",
+	"authors": ["Eunhyeok Park", "Dongyoung Kim", "Soobeom Kim", "Yong-Deok Kim", "Gunhee Kim", "Sungroh Yoon", "Sungjoo Yoo"],
+	"conference": "2015 International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)",
+	"year": "2015",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
+{
+	"title": "Memory fast-forward: a low cost special function unit to enhance energy efficiency in GPU for big data processing",
+	"authors": ["Eunhyeok Park", "Junwhan Ahn", "Sungpack Hong", "Sungjoo Yoo", "Sunggu Lee"],
+	"conference": "2015 Design, Automation & Test in Europe Conference & Exhibition (DATE)",
+	"year": "2015",
+	"is_best": "false",
+	"to_be_accepeted": "false"
+},
 {
 	"title": "Integrating GPU Support for OpenMP Offloading Directives into Clang",
 	"authors": ["Carlo Bertolli", "Samuel Antao", "Gheorghe-Theodor Bercea", "Arpith Jacob", "Alexandre Eichenberger", "Tong Chen", "Zehra Sura", "Hyojin Sung", "Georgious Rokos", "David Appelhans", "Kevin O’Brien"],
