@@ -4,7 +4,7 @@ var array_years = new Array();
 function loadPaperList(callback) {
 	var xobj = new XMLHttpRequest();
 	xobj.overrideMimeType("application/json");
-	xobj.open('GET', 'https://raw.githubusercontent.com/allencho1222/web/main/publication_list/publications.json', true);
+	xobj.open('GET', '/publication_list/publications.json', true);
 	xobj.onreadystatechange = function() {
 		if (xobj.readyState == 4 && xobj.status == "200") {
 			callback(JSON.parse(xobj.responseText));
