@@ -3,7 +3,7 @@ NUM_OF_LIST = 5
 function loadNewsList(callback) {
 	var xobj = new XMLHttpRequest();
 	xobj.overrideMimeType("application/json");
-	xobj.open('GET', '/web/news_list/news.json', true);
+	xobj.open('GET', '/news_list/news.json', true);
 	xobj.onreadystatechange = function() {
 		if (xobj.readyState == 4 && xobj.status == "200") {
 			callback(JSON.parse(xobj.responseText));
