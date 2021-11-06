@@ -2,6 +2,14 @@
 "publication_list": 
 [
 {
+	"title" : "Near-Data Processing in Memory Expander for DNN Acceleration on GPUs",
+	"authors" : ["Hyungkyu Ham*", "Hyunuk Cho*", "Minjae Kim", "Jueon Park", "Jeongmin Hong", "Hyojin Sung", "Eunhyeok Park", "Euicheol Lim", "Gwangsun Kim"],
+	"conference": "IEEE Computer Architecture Letters (CAL) 2021",
+	"year" : "2021",
+	"is_best" : false,
+	"to_be_accepted": false
+},	
+{
 	"title": "MEANTIME: Mixture of Attention Mechanisms with Multi-temporal Embeddings for Sequential Recommendation",
 	"authors": ["Sung Min Cho", "Eunhyeok Park", "Sungjoo Yoo"],
 	"conference": "Fourteenth ACM Conference on Recommender Systems",
