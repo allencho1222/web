@@ -10,6 +10,14 @@
 	"to_be_accepted": false
 },	
 {
+	"title" : "Hybrid Register Allocation with Spill Cost and Pattern Guided Optimization",
+	"authors" : ["Yongwon Shin", "Hyojin Sung"],
+	"conference": "International Workshop on Languages and Compilers for Parallel Computing (LCPC) 2021",
+	"year" : "2021",
+	"is_best" : false,
+	"to_be_accepted": false
+},	
+{
 	"title": "MEANTIME: Mixture of Attention Mechanisms with Multi-temporal Embeddings for Sequential Recommendation",
 	"authors": ["Sung Min Cho", "Eunhyeok Park", "Sungjoo Yoo"],
 	"conference": "Fourteenth ACM Conference on Recommender Systems",
