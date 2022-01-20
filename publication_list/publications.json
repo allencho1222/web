@@ -4,7 +4,7 @@
 {
 	"title" : "Fine-grained Semantics-aware Representation Enhancement for Self-supervised Monocular Depth Estimation",
 	"authors" : ["Hyunyoung Jung", "Eunhyeok Park", "Sungjoo Yoo"],
-	"conference": "International Conference on Computer Vision (ICCV) - Oral",
+	"conference": "International Conference on Computer Vision (ICCV) 2021 - Oral",
 	"year" : "2021",
 	"is_best" : false,
 	"to_be_accepted": false
@@ -12,7 +12,7 @@
 {
 	"title" : "MetaTune: Meta-Learning Based Cost Model for Fast and Efficient Auto-tuning Frameworks",
 	"authors" : ["Jaehun Ryu", "Hyojin Sung"],
-	"conference": "Arxiv",
+	"conference": "Arxiv 2021",
 	"year" : "2021",
 	"is_best" : false,
 	"to_be_accepted": false
