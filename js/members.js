@@ -1,5 +1,5 @@
 faculty_dir = ["hyojin", "gwangsun", "eunhyeok"]
-graduate_dir = ["sungjun", "yeongsang", "junho", "jaehun", "yongwon", "hyunuk", "hyungkyu", "jeongmin", "hyungcheol", "jueon", "sein", "juseong"]
+graduate_dir = ["sungjun", "yeongsang", "junho", "yongwon", "hyunuk", "hyungkyu", "jeongmin", "hyungcheol", "jueon", "sein", "juseong"]
 
 function readProfile(student, callback) {
 	var xobj = new XMLHttpRequest();
