@@ -21,8 +21,9 @@ loadNewsList(function(newsListJson) {
 	newsList.forEach(function(news) {
 		li = document.createElement('li');
 		li.style.fontSize = "15pt";
+		li.style.textAlign = "left";
 		// for indentation same as research
-		li.id="research"
+		//li.id="research"
 		date = '[' + news['month'] + ' / ' + news['day'] + ' / ' +  news['year'] + ']'
 		li.innerHTML = date + ' ' + news['desc']
 		insertPoint.append(li);
