@@ -14,6 +14,10 @@ loadNewsList(function(newsListJson) {
 	insertPoint = document.getElementById("news");
 	//console.log(newsListJson)
 	newsList = newsListJson["news_list"]
+	ul = document.createElement('ul');
+	ul.style.listStylePosition = "outside";
+	insertPoint.append(ul);
+	insertPoint = ul;
 	newsList.forEach(function(news) {
 		li = document.createElement('li');
 		li.style.fontSize = "15pt";
