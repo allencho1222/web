@@ -5,7 +5,13 @@
   "year" : "2022",
   "month" : "02",
   "day" : "10",
-  "desc" : "Paper titled \"One-Shot Tuner for Deep Learning Compilers\" will be accepted (CC'22)"
+  "desc" : "Our paper titled \"One-Shot Tuner for Deep Learning Compilers\" is accepted for publication in CC!"
+},
+{
+  "year" : "2021",
+  "month" : "11",
+  "day" : "05",
+  "desc" : "Our paper titled \"Near-Data Processing in Memory Expander for DNN Acceleration on GPUs\" is accepted for publication in IEEE CAL!"
 },
 {
   "year" : "2021",
