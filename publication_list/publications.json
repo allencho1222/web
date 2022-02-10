@@ -4,7 +4,7 @@
 {
 	"title" : "One-Shot Tuner for Deep Learning Compilers",
 	"authors" : ["Jaehun Ryu", "Eunhyeok Park", "Hyojin Sung"],
-	"conference": "Compiler Construction (CC) 2022",
+	"conference": "International Conference on Compiler Construction (CC) 2022",
 	"year" : "2022",
 	"is_best" : false,
 	"to_be_accepted": true
