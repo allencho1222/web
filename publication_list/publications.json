@@ -4,15 +4,15 @@
 {
 	"title" : "One-Shot Tuner for Deep Learning Compilers",
 	"authors" : ["Jaehun Ryu", "Eunhyeok Park", "Hyojin Sung"],
-	"conference": "International Conference on Compiler Construction (CC) 2022",
+	"conference": "International Conference on Compiler Construction (CC)",
 	"year" : "2022",
 	"is_best" : false,
-	"to_be_accepted": true
+	"to_be_accepted": false
 },
 {
 	"title" : "Fine-grained Semantics-aware Representation Enhancement for Self-supervised Monocular Depth Estimation",
 	"authors" : ["Hyunyoung Jung", "Eunhyeok Park", "Sungjoo Yoo"],
-	"conference": "International Conference on Computer Vision (ICCV) 2021 - Oral",
+	"conference": "International Conference on Computer Vision (ICCV)",
 	"year" : "2021",
 	"is_best" : false,
 	"to_be_accepted": false
@@ -20,7 +20,7 @@
 {
 	"title" : "MetaTune: Meta-Learning Based Cost Model for Fast and Efficient Auto-tuning Frameworks",
 	"authors" : ["Jaehun Ryu", "Hyojin Sung"],
-	"conference": "Arxiv 2021",
+	"conference": "Arxiv",
 	"year" : "2021",
 	"is_best" : false,
 	"to_be_accepted": false
@@ -28,7 +28,7 @@
 {
 	"title" : "Near-Data Processing in Memory Expander for DNN Acceleration on GPUs",
 	"authors" : ["Hyungkyu Ham*", "Hyunuk Cho*", "Minjae Kim", "Jueon Park", "Jeongmin Hong", "Hyojin Sung", "Eunhyeok Park", "Euicheol Lim", "Gwangsun Kim"],
-	"conference": "IEEE Computer Architecture Letters (CAL) 2021",
+	"conference": "IEEE Computer Architecture Letters (CAL)",
 	"year" : "2021",
 	"is_best" : false,
 	"to_be_accepted": false
@@ -36,7 +36,7 @@
 {
 	"title" : "Hybrid Register Allocation with Spill Cost and Pattern Guided Optimization",
 	"authors" : ["Yongwon Shin", "Hyojin Sung"],
-	"conference": "International Workshop on Languages and Compilers for Parallel Computing (LCPC) 2021",
+	"conference": "International Workshop on Languages and Compilers for Parallel Computing (LCPC)",
 	"year" : "2021",
 	"is_best" : false,
 	"to_be_accepted": false
