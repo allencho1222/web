@@ -2,6 +2,14 @@
 "publication_list": 
 [
 {
+	"title" : "One-Shot Tuner for Deep Learning Compilers",
+	"authors" : ["Jaehun Ryu", "Eunhyeok Park", "Hyojin Sung"],
+	"conference": "Compiler Construction (CC) 2022",
+	"year" : "2022",
+	"is_best" : false,
+	"to_be_accepted": true
+},
+{
 	"title" : "Fine-grained Semantics-aware Representation Enhancement for Self-supervised Monocular Depth Estimation",
 	"authors" : ["Hyunyoung Jung", "Eunhyeok Park", "Sungjoo Yoo"],
 	"conference": "International Conference on Computer Vision (ICCV) 2021 - Oral",
