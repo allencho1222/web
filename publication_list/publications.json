@@ -2,6 +2,14 @@
 "publication_list": 
 [
 {
+	"title" : "Dynamic Global Adaptive Routing in High-radix Networks",
+	"authors" : ["Hans Kasan", "Gwangsun Kim", "Yung Yi", "John Kim"],
+	"conference": "The 49th International Symposium on Computer Architecture (ISCA)",
+	"year" : "2022",
+	"is_best" : false,
+	"to_be_accepted": false
+},
+{
 	"title" : "One-Shot Tuner for Deep Learning Compilers",
 	"authors" : ["Jaehun Ryu", "Eunhyeok Park", "Hyojin Sung"],
 	"conference": "International Conference on Compiler Construction (CC)",
