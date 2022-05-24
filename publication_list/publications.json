@@ -2,6 +2,14 @@
 "publication_list": 
 [
 {
+	"title" : "Runtime Support for Accelerating CNN Models on Digital DRAM Processing-in-Memory Hardware",
+	"authors" : ["Yongwon Shin", "Juseong Park", "Jeongmin Hong", "Hyojin Sung"],
+	"conference": "IEEE Computer Architecture Letters (CAL)",
+	"year" : "2022",
+	"is_best" : false,
+	"to_be_accepted": false
+},
+{
 	"title" : "Dynamic Global Adaptive Routing in High-radix Networks",
 	"authors" : ["Hans Kasan", "Gwangsun Kim", "Yung Yi", "John Kim"],
 	"conference": "The 49th International Symposium on Computer Architecture (ISCA)",
