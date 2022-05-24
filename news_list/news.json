@@ -3,6 +3,12 @@
 [
 {
   "year" : "2022",
+  "month" : "24",
+  "day" : "05",
+  "desc" : "Our paper titled \"Runtime Support for Accelerating CNN Models on Digital DRAM Processing-in-Memory Hardware\" is accepted for publication in IEEE CAL!"
+},
+{
+  "year" : "2022",
   "month" : "02",
   "day" : "21",
   "desc" : "Yugyoung Yun, Junhyuk So, Juncheol Shin, and Jiwoong Shin joined our lab. Welcome!"
