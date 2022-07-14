@@ -2,6 +2,30 @@
 "publication_list": 
 [
 {
+	"title" : "Symmetry Regularization and Saturating Nonlinearity for Robust Quantization",
+	"authors" : ["Sein Park", "Yeongsang Jang", "Eunhyeok Park"],
+	"conference": "European Conference on Computer Vision (ECCV)",
+	"year" : "2022",
+	"is_best" : false,
+	"to_be_accepted": false
+},
+{
+	"title" : "Branch-wise Activation-clipping Search Quantization for Sub-4-bit Neural Networks",
+	"authors" : ["Hanbyul Kim", "Eunhyeok Park", "Sungjoo Yoo"],
+	"conference": "European Conference on Computer Vision (ECCV)",
+	"year" : "2022",
+	"is_best" : false,
+	"to_be_accepted": false
+},
+{
+	"title" : "Online Hybrid Lightweight Representations Learning: Its Application to Visual Tracking",
+	"authors" : ["Ilchae Jung", "Minji Kim", "Eunhyeok Park", "Bohyung Han"],
+	"conference": "Intewrnational Joint Conference on Artificial Intelligence Organization (IJCAI)",
+	"year" : "2022",
+	"is_best" : false,
+	"to_be_accepted": false
+},
+{
 	"title" : "Runtime Support for Accelerating CNN Models on Digital DRAM Processing-in-Memory Hardware",
 	"authors" : ["Yongwon Shin", "Juseong Park", "Jeongmin Hong", "Hyojin Sung"],
 	"conference": "IEEE Computer Architecture Letters (CAL)",
