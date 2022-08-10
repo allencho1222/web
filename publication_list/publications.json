@@ -2,8 +2,16 @@
 "publication_list": 
 [
 {
+	"title" : "Overcoming Memory Capacity Wall of GPUs With Heterogeneous Memory Stack",
+	"authors" : ["Jeongmin Hong*", "Sungjun Cho*", "Gwangsun Kim"],
+	"conference": "IEEE Computer Architecture Letters (CAL)",
+	"year" : "2022",
+	"is_best" : false,
+	"to_be_accepted": false
+},
+{
 	"title" : "Symmetry Regularization and Saturating Nonlinearity for Robust Quantization",
-	"authors" : ["Sein Park", "Yeongsang Jang", "Eunhyeok Park"],
+	"authors" : ["Sein Park*", "Yeongsang Jang*", "Eunhyeok Park"],
 	"conference": "European Conference on Computer Vision (ECCV)",
 	"year" : "2022",
 	"is_best" : false,
